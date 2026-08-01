@@ -1,5 +1,5 @@
-# Thalen's "Drow-Slayer" Barbacoa
-### *(or: What the Fallen Priest Won't Heal but Will Definitely Eat)*
+# Thalen's Smoked Adobe Beef
+### *(or: What the Fallen Priest calls Barbacoa)*
 
 *Fresh-rotel edition. Same vengeance, less aluminum.*
 
