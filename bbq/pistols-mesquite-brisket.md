@@ -116,7 +116,9 @@ Expect to lose 20 to 25 percent of the raw weight. A 14 lb packer comes out arou
 
 Lubbock, 1991. Or 1992, depending on which roommate you asked and how far into the evening you asked him.
 
-It started further south. In Leon Valley, outside San Antonio, I worked at a Pistol Pete's making and cooking pizza, and a few times they put me in the mascot suit and sent me out to the Kroger parking lot to wave at traffic. Nobody called me Pistol then. I was just the guy in the costume.
+It started further south. In Leon Valley, outside San Antonio, I worked at a Pistol Pete's making and cooking pizza. The pay was nothing much, but the games were free and I played a lot of free games. The better perk was that family could crash in whenever and I'd make them a real pizza, built the way I wanted to build it instead of the way the ticket said. Allen and Denise came by the most. Kevin still brings that pizza up decades later, for reasons he has never once explained.
+
+A few times they put me in the mascot suit and sent me out to the Kroger parking lot to wave at traffic. Nobody called me Pistol then. I was just the guy in the costume.
 
 Lubbock came later, and I got there flat broke. Broke in the specific way where the problem isn't finding work, it's that you don't own the clothes the work requires. The manager at the Pistol Pete's up there worked out pretty quickly that I already knew the business, and rather than leave it at that he walked me next door to Weiner's (I think it was Weiner's) and bought me white shirts and jeans so I could turn up in the morning and start making dough.
 
@@ -126,10 +128,14 @@ He had no particular reason to do it. I was a broke kid who could already make a
 
 What he bought was the morning shift. In before anybody else, lights on in an empty building, dough made and proofing and everything prepped so the place could run when the rest of the crew drifted in hours later. I wasn't alone on it either. Joe was on those mornings with me and we tossed dough together through all of them, which is a considerably better job than doing it by yourself.
 
-There was a girl there too. The first one. I thought she was the one, and she thought I was the one, and we were both wrong about that. Finding it out turned out to be most of what growing up actually was.
+There was a girl there too. The first one. I thought she was the one, and she thought I was the one, and we were both wrong about that. I did her wrong before it ended, and there is no version of that sentence I like any better than the plain one. It was the best thing for both of us in the end, which is true and is also not an excuse. Learning the difference between those two things turned out to be most of what growing up actually was.
 
 And then the hat. I was living at the El Chaparral apartments, out near 50th and Slide, with three roommates. They were outside one evening doing nothing in particular, just bullshitting, and I came walking up still wearing the Pistol Pete hat, having genuinely forgotten it was on my head. Somebody said something. Everybody laughed. It stuck for as long as I lived there.
 
 Which tells you it was never really about the hat. I had worn the entire costume, head to toe, in a grocery store parking lot, in daylight, in front of the general public, and nothing came of it. It took a warm night, nothing much to do, and people who already liked you.
 
-The name is the part that lasted. It outlived the job, the apartment, the girl, and Lubbock, and it turned up on a brisket thirty-odd years later. But none of that happens without a man who noticed a kid couldn't afford a white shirt, and did something about it before anybody thought to ask him.
+As for why this recipe carries the name and not one of the others, the reasons are bad and I am going to list them anyway. It is the only thing I cook that starts at three in the morning, close enough to the opener shift that my body still files it under work. It is Texas food and Pistol is a Texas name. It involves standing around outside for sixteen hours in the heat waiting on something to be ready, which is the mascot suit with better scenery. And dough and brisket punish you in precisely the same way when you rush them, which I did not expect to be true and which turns out to be true anyway.
+
+None of that adds up to a reason. But the name didn't add up the first time either, and it stuck.
+
+It outlived the job, the apartment, the girl, and Lubbock, and it turned up on a brisket thirty-odd years later. None of which happens without a man who noticed a kid couldn't afford a white shirt, and did something about it before anybody thought to ask him.
