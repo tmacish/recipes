@@ -150,6 +150,4 @@ None of that adds up to a reason. But the name didn't add up the first time eith
 
 It outlived the job, the apartment, the girl, and Lubbock, and it turned up on a brisket thirty-odd years later.
 
-None of which happens without a man who noticed a kid couldn't afford a white shirt and did something about it before anybody thought to ask. Or without a widow working retail who made sure her son left with a few dollars anyway. Or without a country that decided, on purpose and in advance, that kids like me were worth carrying until we could carry ourselves.
-
-I have paid all of it back several times over since, through my own taxes, and gladly. That is the whole arrangement. Somebody covers you before you can cover yourself, and then you cover the next one, whose story hasn't been written yet.
+None of which happens without a man who noticed a kid couldn't afford a white shirt and did something about it before anybody thought to ask. Or without a widow working retail who made sure her son left with a few dollars anyway. Or without a country that decided, on purpose and in advance, that kids are worth carrying until we can carry ourselves.
