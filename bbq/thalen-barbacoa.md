@@ -1,4 +1,4 @@
-# Thalen's Smoked Adobe Beef
+# Thalen's Smoked Adobo Beef
 ### *(or: What the Fallen Priest calls Barbacoa)*
 
 *Fresh-rotel edition. Same vengeance, less aluminum.*
