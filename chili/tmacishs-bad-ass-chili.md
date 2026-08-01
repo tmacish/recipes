@@ -1,6 +1,6 @@
 # Tmacish's Bad Ass Chili
 
-Cubed chuck roast instead of ground beef, simmered long enough that the meat gives up and falls apart on its own. The chile base is built from whole dried anchos and guajillos rather than a jar of chili powder, which is the whole difference: toasted and blended fresh, they bring a deep, almost raisiny sweetness that packaged powder lost years ago sitting on a shelf. Heat comes in as a separate layer at the end, so the pot stays approachable and anyone who wants it hotter can build it up at the plate.
+Cubed chuck roast instead of ground beef, simmered long enough that the meat gives up and falls apart on its own. The chile base is built from whole dried anchos and guajillos rather than a jar of chili powder, which is the whole difference: toasted and blended fresh, they bring a deep, almost raisiny sweetness that packaged powder lost years ago sitting on a shelf. Heat is built into the base rather than bolted on at the end, and it lands about where a default batch of Thalen's smoked adobo beef does: enough to make you notice and keep eating, nowhere near full atrocity.
 
 **Serves:** 6 to 8
 **Prep:** 30 minutes · **Cook:** 2 1/2 hours
@@ -10,7 +10,7 @@ Cubed chuck roast instead of ground beef, simmered long enough that the meat giv
 ### Chile base
 - 3 dried ancho chilies (body and sweetness)
 - 3 dried guajillo chilies (brightness and color)
-- 1 chipotle in adobo, plus 1 tsp of the sauce (smoke; start here)
+- 3 to 4 chipotles in adobo, plus a spoon of the sauce (half a 7 oz can; this is the heat)
 - 2 cups beef stock, hot, for soaking
 
 ### Chili
@@ -30,9 +30,10 @@ Cubed chuck roast instead of ground beef, simmered long enough that the meat giv
 - 1 tbsp cider vinegar, to finish
 - Kosher salt and black pepper, to taste
 
-### Heat accent (adjust to the table)
-- 1/2 tsp cayenne, or to taste
-- Extra chipotle in adobo, minced
+### To push it hotter (optional)
+- 1 or 2 dried chile de arbol, toasted alongside the anchos
+- Cayenne, to taste
+- The jalapeño left unseeded
 
 ### To finish
 - Shredded Colby Jack
@@ -42,7 +43,7 @@ Cubed chuck roast instead of ground beef, simmered long enough that the meat giv
 
 ## Method
 
-1. **Build the chile base.** Wipe the anchos and guajillos clean, tear off the stems, and shake out the seeds. Toast in a dry skillet over medium heat, pressing flat for a few seconds per side, just until they smell sweet and turn pliable. Do not let them scorch or the whole batch turns bitter. Cover with the hot stock and soak 20 minutes, then blend with the chipotle, its adobo, and enough soaking liquid to make a loose paste. Set aside.
+1. **Build the chile base.** Wipe the anchos and guajillos clean, tear off the stems, and shake out the seeds. Toast in a dry skillet over medium heat, pressing flat for a few seconds per side, just until they smell sweet and turn pliable. Do not let them scorch or the whole batch turns bitter. Cover with the hot stock and soak 20 minutes, then blend with the chipotles, their adobo, and enough soaking liquid to make a loose paste. Set aside. If you're going hotter, toast the chile de arbol with the anchos and blend them in here.
 
 2. **Dry the beef and season it.** Pat the cubes thoroughly dry and season generously with salt and pepper. Wet meat steams instead of browning, and the browning is where most of the flavor in this pot comes from.
 
@@ -56,18 +57,17 @@ Cubed chuck roast instead of ground beef, simmered long enough that the meat giv
 
 7. **Combine and simmer.** Return the beef and any accumulated juices. Add the tomatoes and stock, and stir to combine. Bring to a boil, then drop to the barest simmer, cover, and cook 2 to 2 1/2 hours, stirring occasionally, until the chuck shreds against the side of a spoon with no resistance.
 
-8. **Taste and set the heat.** Uncover for the last 30 minutes to reduce. **This is your heat checkpoint.** The base is rich but mild by design. Add cayenne or minced chipotle a little at a time, tasting as you go, and stop below where you want it since it climbs as it sits. If it needs body, whisk the masa harina with a splash of stock and stir it in.
+8. **Taste and check the heat.** Uncover for the last 30 minutes to reduce. **This is your heat checkpoint.** It should be sitting at a solid middle burn by now, on par with a default barbacoa. Long simmers mute chile heat, so if it reads flat, a spoon of adobo sauce stirred in late brings it back without adding raw edge. If it needs body, whisk the masa harina with a splash of stock and stir it in.
 
 9. **Finish.** Off the heat, stir in the cider vinegar and adjust the salt. The vinegar won't read as sour, it just lifts everything and keeps a long-simmered pot from tasting flat. Serve with cheese, green onions, sour cream, and lime.
 
 ## Notes
 
-- **Heat control.** All the burn lives in step 8, on purpose. Serve the pot mild and put the cayenne, extra chipotle, and hot sauce on the table so everyone dials in their own bowl.
+- **Where it lands.** Roughly a default batch of Thalen's smoked adobo beef: chipotle-driven, smoke first and burn second, and it builds across a bowl rather than hitting up front. Short of the arbol-and-mesquite version by a wide margin. To bring it back down, drop to two chipotles and seed the jalapeño; sour cream on the plate takes the top off either way.
 - **Cubed, not ground.** Chuck cut by hand is what makes this read as a steak chili rather than a taco filling. Don't go leaner than chuck; the connective tissue is what turns silky over a long simmer.
 - **Better the next day.** The flavors round out overnight. Cool completely, refrigerate up to 4 days, and reheat gently. Freezes well for 3 months.
 - **Thickening.** Reduce it uncovered first; that concentrates flavor instead of just adding starch. Masa harina is the fallback and adds a faint corn sweetness that suits the chile base. A cornstarch slurry works but tastes of nothing.
 - **Chile substitutions.** No anchos? Double the guajillos and add a teaspoon of sugar. No dried chilies at all? Three tablespoons of decent chili powder gets you most of the way, but that's the compromise version.
-- **Origin.** Adapted from an Outback-style Tasmanian chili, rebuilt from scratch and re-balanced so the heat is a layer rather than baked in.
 
 ## Appendix: Tomato Options
 
