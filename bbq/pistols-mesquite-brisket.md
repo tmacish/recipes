@@ -15,7 +15,7 @@ A full packer done straight: heavy black pepper rub, mesquite, tallow and butche
 
 ### Binder
 - 1/2 yellow mustard
-- 1/2 dill pickle juice (**works against the smoke ring** — see notes)
+- 1/2 dill pickle juice (**works against the smoke ring**, see notes)
 
 ### Spritz
 - 50% water
@@ -106,7 +106,7 @@ Expect to lose 20 to 25 percent of the raw weight. A 14 lb packer comes out arou
 ## Notes
 
 - **Where it lands.** No chile heat at all. This is pepper-forward, not spicy, and the burn is the sharp front-of-mouth kind from a heavy coarse grind rather than anything that builds. Hot sauce or pickled jalapeños on the side if the table wants it.
-- **Smoke ring, and what the pickle juice costs you.** The ring is nitric oxide and carbon monoxide off the burning wood binding with myoglobin in the outer few millimeters of meat. It only forms while that layer is below roughly 140 to 170°F, so it's decided in the first few hours and nothing later changes it. Acid on the surface suppresses the reaction, which means **the pickle juice will cost you ring.** If the ring matters to you, go all mustard, or skip the binder entirely and let the overnight salt pull enough moisture to hold the rub. Two things worth knowing before you bother: the ring is purely cosmetic and adds nothing to flavor or texture, and the overnight uncovered rest works against it too, for the same reason — a dry surface gives the gases nowhere to dissolve. That one buys you better bark, and it's a trade most people take on purpose.
+- **Smoke ring, and what the pickle juice costs you.** The ring is nitric oxide and carbon monoxide off the burning wood binding with myoglobin in the outer few millimeters of meat. It only forms while that layer is below roughly 140 to 170°F, so it's decided in the first few hours and nothing later changes it. Acid on the surface suppresses the reaction, which means **the pickle juice will cost you ring.** If the ring matters to you, go all mustard, or skip the binder entirely and let the overnight salt pull enough moisture to hold the rub. Two things worth knowing before you bother: the ring is purely cosmetic and adds nothing to flavor or texture, and the overnight uncovered rest works against it too, for the same reason: a dry surface gives the gases nowhere to dissolve. That one buys you better bark, and it's a trade most people take on purpose.
 - **Salt.** Lawry's is already salted, so between it and the kosher salt this rub is seasoned at 6 parts salt against 8 pepper. Don't add more on top and don't brine underneath it.
 - **The stall is not a problem.** Somewhere around 150 to 165°F the temperature stops climbing for hours while surface moisture evaporates. It's physics, not a stall in your fire. Wrapping is how you shorten it; panicking and raising the pit temperature is how you ruin it.
 - **Timing backward.** Figure roughly an hour to an hour and a quarter per trimmed pound at 250°F, then add the rest. For dinner at 6pm with an 11 lb trimmed packer, that's on the smoker by 3 or 4am. Build in a couple of hours of slack, because a brisket that finishes early holds beautifully and one that finishes late ruins the plan.
@@ -116,22 +116,20 @@ Expect to lose 20 to 25 percent of the raw weight. A 14 lb packer comes out arou
 
 Lubbock, 1991. Or 1992, depending on which roommate you asked and how far into the evening you asked him.
 
-It started further south, though. In Leon Valley, outside San Antonio, I worked at a Pistol Pete's making and cooking pizza. A few times they put me in the mascot suit and sent me out to the Kroger parking lot to wave at traffic, which is an education in its own right. Nobody called me Pistol then. I was just the guy in the costume.
+It started further south. In Leon Valley, outside San Antonio, I worked at a Pistol Pete's making and cooking pizza, and a few times they put me in the mascot suit and sent me out to the Kroger parking lot to wave at traffic. Nobody called me Pistol then. I was just the guy in the costume.
 
-Lubbock came later, and I got there flat broke. Broke in the specific way where the problem isn't finding work, it's that you don't own the clothes the work requires. The manager at the Pistol Pete's up there worked out pretty quickly that I already knew the business, and rather than leave it at that he walked me next door to Weiner's — I think it was Weiner's — and bought me white shirts and jeans so I could turn up in the morning and start making dough.
-
-That was the opener shift. In before anybody else, lights on in an empty building, dough made and proofing, everything prepped so the place could run when the rest of the crew drifted in hours later. Good job if you don't mind being alone with a list. Bad one if you're attached to sleeping.
+Lubbock came later, and I got there flat broke. Broke in the specific way where the problem isn't finding work, it's that you don't own the clothes the work requires. The manager at the Pistol Pete's up there worked out pretty quickly that I already knew the business, and rather than leave it at that he walked me next door to Weiner's (I think it was Weiner's) and bought me white shirts and jeans so I could turn up in the morning and start making dough.
 
 I've thought about that manager more times than he would ever guess.
 
+He had no particular reason to do it. I was a broke kid who could already make a pizza, and there were probably a dozen of those inside a mile. He spent his own money on a stranger's work clothes, and then never once made anything of it.
+
+What he bought was the morning shift. In before anybody else, lights on in an empty building, dough made and proofing and everything prepped so the place could run when the rest of the crew drifted in hours later. I wasn't alone on it either. Joe was on those mornings with me and we tossed dough together through all of them, which is a considerably better job than doing it by yourself.
+
 There was a girl there too. The first one. I thought she was the one, and she thought I was the one, and we were both wrong about that. Finding it out turned out to be most of what growing up actually was.
 
-I was living at the El Chaparral apartments, out near 50th and Slide, with three roommates. One night — or one morning, that shift blurred them together thoroughly — I came home still wearing the Pistol Pete hat, having genuinely forgotten it was on my head. My roommates had forgotten nothing, being several beers into an evening that had run considerably longer than my shift, and they had a name for me before I got the door shut behind me.
+And then the hat. I was living at the El Chaparral apartments, out near 50th and Slide, with three roommates. They were outside one evening doing nothing in particular, just bullshitting, and I came walking up still wearing the Pistol Pete hat, having genuinely forgotten it was on my head. Somebody said something. Everybody laughed. It stuck for as long as I lived there.
 
-That was the whole ceremony. No vote, no appeal. Pistol.
+Which tells you it was never really about the hat. I had worn the entire costume, head to toe, in a grocery store parking lot, in daylight, in front of the general public, and nothing came of it. It took a warm night, nothing much to do, and people who already liked you.
 
-Which is the part that still gets me. I had worn the entire costume, head to toe, in a grocery store parking lot, in daylight, in front of the general public, and nothing came of it. It took a hat, a closing time, and three drunk witnesses.
-
-It stuck as long as I lived in that apartment. The hat went, the job went, Lubbock went. The name is still here, thirty-odd years later, on a brisket.
-
-Seems fair. I got up early for that one too.
+The name is the part that lasted. It outlived the job, the apartment, the girl, and Lubbock, and it turned up on a brisket thirty-odd years later. But none of that happens without a man who noticed a kid couldn't afford a white shirt, and did something about it before anybody thought to ask him.
