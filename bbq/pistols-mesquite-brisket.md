@@ -136,6 +136,10 @@ Everything else that got me to that town had arrived as policy. No face on it, n
 
 What he bought was the morning shift. In before anybody else, lights on in an empty building, dough made and proofing and everything prepped so the place could run when the rest of the crew drifted in hours later. I wasn't alone on it either. Joe was on those mornings with me and we tossed dough together through all of them, which is a considerably better job than doing it by yourself.
 
+That shift turned out to be a rehearsal. From 2006 to 2019 I left the house at four in the morning to be at 1500 Louisiana by six, so I could get out early enough to make it home at a decent hour. The coffee was the best part of it, with Alex and Jay and Roy and Dan and Mike, and a list that keeps going well past them. Different city, different decade, entirely different work. Same hour, and the same thing that makes it bearable, which is somebody else standing there at that hour with you.
+
+I have been getting up at that hour since 1991. Or maybe 1992.
+
 There was a girl there too. The first one. I thought she was the one and she thought I was the one, and we were both wrong about that part.
 
 The rest was on me. She hadn't done anything wrong. I was nineteen and still mostly a boy, and I handled it badly, and that was the thing I actually learned in Lubbock, more than anything the job taught me. Wherever she is now, I hope it has been good to her. She did a lot better than a nineteen year old Pistol.
