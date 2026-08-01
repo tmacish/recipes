@@ -1,4 +1,4 @@
-# Basic BBQ Brisket
+# Pistol's Mesquite Brisket
 
 A full packer done straight: heavy black pepper rub, mesquite, tallow and butcher paper through the stall, and a long rest. No injection, no crutch, no sauce. The rub runs pepper-forward in the South Texas direction, where the salt is there to season and the pepper is there to build bark. Everything that makes this work happens either in the trim or in the rest, and both are the steps people rush.
 
@@ -111,3 +111,27 @@ Expect to lose 20 to 25 percent of the raw weight. A 14 lb packer comes out arou
 - **The stall is not a problem.** Somewhere around 150 to 165°F the temperature stops climbing for hours while surface moisture evaporates. It's physics, not a stall in your fire. Wrapping is how you shorten it; panicking and raising the pit temperature is how you ruin it.
 - **Timing backward.** Figure roughly an hour to an hour and a quarter per trimmed pound at 250°F, then add the rest. For dinner at 6pm with an 11 lb trimmed packer, that's on the smoker by 3 or 4am. Build in a couple of hours of slack, because a brisket that finishes early holds beautifully and one that finishes late ruins the plan.
 - **Leftovers.** Slice cold, reheat gently in a covered pan with a splash of stock or the rendered tallow. Freezes well in vacuum bags for 3 months.
+
+## About the Name
+
+Lubbock, 1991. Or 1992, depending on which roommate you asked and how far into the evening you asked him.
+
+It started further south, though. In Leon Valley, outside San Antonio, I worked at a Pistol Pete's making and cooking pizza. A few times they put me in the mascot suit and sent me out to the Kroger parking lot to wave at traffic, which is an education in its own right. Nobody called me Pistol then. I was just the guy in the costume.
+
+Lubbock came later, and I got there flat broke. Broke in the specific way where the problem isn't finding work, it's that you don't own the clothes the work requires. The manager at the Pistol Pete's up there worked out pretty quickly that I already knew the business, and rather than leave it at that he walked me next door to Weiner's — I think it was Weiner's — and bought me white shirts and jeans so I could turn up in the morning and start making dough.
+
+That was the opener shift. In before anybody else, lights on in an empty building, dough made and proofing, everything prepped so the place could run when the rest of the crew drifted in hours later. Good job if you don't mind being alone with a list. Bad one if you're attached to sleeping.
+
+I've thought about that manager more times than he would ever guess.
+
+There was a girl there too. The first one. I thought she was the one, and she thought I was the one, and we were both wrong about that. Finding it out turned out to be most of what growing up actually was.
+
+I was living at the El Chaparral apartments, out near 50th and Slide, with three roommates. One night — or one morning, that shift blurred them together thoroughly — I came home still wearing the Pistol Pete hat, having genuinely forgotten it was on my head. My roommates had forgotten nothing, being several beers into an evening that had run considerably longer than my shift, and they had a name for me before I got the door shut behind me.
+
+That was the whole ceremony. No vote, no appeal. Pistol.
+
+Which is the part that still gets me. I had worn the entire costume, head to toe, in a grocery store parking lot, in daylight, in front of the general public, and nothing came of it. It took a hat, a closing time, and three drunk witnesses.
+
+It stuck as long as I lived in that apartment. The hat went, the job went, Lubbock went. The name is still here, thirty-odd years later, on a brisket.
+
+Seems fair. I got up early for that one too.
