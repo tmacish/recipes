@@ -116,9 +116,13 @@ Expect to lose 20 to 25 percent of the raw weight. A 14 lb packer comes out arou
 
 Lubbock, 1991. Or 1992, depending on which roommate you asked and how far into the evening you asked him.
 
-It started further south. In Leon Valley, outside San Antonio, I worked at a Pistol Pete's making and cooking pizza. The pay was nothing much, but the games were free and I played a lot of free games. The better perk was that family could crash in whenever and I'd make them a real pizza, built the way I wanted to build it instead of the way the ticket said. Allen and Denise came by the most. Kevin still brings that pizza up decades later, for reasons he has never once explained.
+It started further south. In Leon Valley, outside San Antonio, I worked at a Pistol Pete's making and cooking pizza. The pay was nothing much, but the games were free and I played a lot of free games. The better perk was that family could crash in whenever and I'd make them a real pizza, built the way I wanted to build it instead of the way the ticket said. Allen and Denise came by the most, and they loved what I put in front of them. Kevin still brings that pizza up decades later, for reasons he has never once explained.
 
-A few times they put me in the mascot suit and sent me out to the Kroger parking lot to wave at traffic. Nobody called me Pistol then. I was just the guy in the costume.
+A few times they put me in the mascot suit and sent me out to the Kroger parking lot to wave at traffic, which turned out to be a broader education than the job description suggested. People hug a mascot. Two girls, who at sixteen I was certain were the prettiest thing that had ever happened in that parking lot, hugged me, and my body took the encounter considerably more seriously than the encounter warranted.
+
+I have never been more embarrassed at work, before or since, and I have had some real competition since. But I was sixteen or seventeen and had never been on a date, and I am not going to pretend the attention wasn't fantastic. I'd have gone back out there the next morning.
+
+Nobody called me Pistol then. I was just the guy in the costume, which on that particular afternoon was the single greatest mercy available to me.
 
 Lubbock came later, and Lubbock meant Texas Tech. I got there on Pell grants, because people I never met decided in advance that a kid like me ought to be able to go. My father died when I was very young, and after that Social Security was what kept us above water. My mother, widowed and working retail, made sure I left for Lubbock with a few dollars in my pocket, earned with her hard work.
 
