@@ -57,6 +57,8 @@ Turns out that read is a common one. The handful of people who've bothered to wr
 
 The reason it was a chicken and not a brisket is the reason it will stay that way. Dogwood is dense but it burns fast without throwing much heat, so it works as an accent in small amounts over a short cook, a couple of chunks with the bark off, rather than as a primary fuel across sixteen hours. On a packer it'd be spent by hour four, which is right about when the meat stops caring what you're burning anyway. Great wood, wrong job.
 
+The one rule worth repeating about scrounged wood, since this is how you end up with it: don't burn anything that's been lying on the ground. Rot and fungus move into a log fast once it's in the dirt, and a punky, mildewed split doesn't burn clean no matter how hot you get the fire. Cut it up, get it stacked off the deck, and let it season. That's what happened here, though more by reflex than by any plan.
+
 There's a fittingly Virginian joke in there somewhere. The state will hand you its own state tree and state flower, the same plant twice over, free, in your own yard, on the ground, already cut. What it will not do is sell you post oak.
 
 ## Trimming the Packer
