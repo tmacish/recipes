@@ -120,15 +120,21 @@ It started further south. In Leon Valley, outside San Antonio, I worked at a Pis
 
 A few times they put me in the mascot suit and sent me out to the Kroger parking lot to wave at traffic. Nobody called me Pistol then. I was just the guy in the costume.
 
-Lubbock came later, and I got there flat broke. Broke in the specific way where the problem isn't finding work, it's that you don't own the clothes the work requires. The manager at the Pistol Pete's up there worked out pretty quickly that I already knew the business, and rather than leave it at that he walked me next door to Weiner's (I think it was Weiner's) and bought me white shirts and jeans so I could turn up in the morning and start making dough.
+Lubbock came later, and Lubbock meant Texas Tech. I got there on Pell grants, which is the tidy way of saying I got there because people I have never met decided in advance that a kid like me ought to be able to go. My father died when I was very young, and after that Social Security was the family's life jacket. Free school lunches covered the distance between the pantry and the cafeteria. His long military service meant we had healthcare, and we never needed Medicaid, though it would not have taken much going sideways for that to change. My mother, widowed in 1982 and a naturalized citizen who had to reinvent herself in a hurry, found honest work at local retailers that paid what local retail pays, and she made sure I left for Lubbock with a few dollars in my pocket.
+
+It was not enough to also cover white shirts, which is the specific shape of being broke that people tend to miss. The problem isn't finding work. It's that you don't own the clothes the work requires. The manager at the Pistol Pete's up there worked out pretty quickly that I already knew the business, and rather than leave it at that he walked me next door to Weiner's (I think it was Weiner's) and bought me white shirts and jeans so I could turn up in the morning and start making dough.
 
 I've thought about that manager more times than he would ever guess.
 
 He had no particular reason to do it. I was a broke kid who could already make a pizza, and there were probably a dozen of those inside a mile. He spent his own money on a stranger's work clothes, and then never once made anything of it.
 
+Everything else that got me to that town had arrived as policy. No face on it, nobody in the room, just decisions made years before by people who would never learn my name. He was the one who turned up in person.
+
 What he bought was the morning shift. In before anybody else, lights on in an empty building, dough made and proofing and everything prepped so the place could run when the rest of the crew drifted in hours later. I wasn't alone on it either. Joe was on those mornings with me and we tossed dough together through all of them, which is a considerably better job than doing it by yourself.
 
-There was a girl there too. The first one. I thought she was the one, and she thought I was the one, and we were both wrong about that. I did her wrong before it ended, and there is no version of that sentence I like any better than the plain one. It was the best thing for both of us in the end, which is true and is also not an excuse. Learning the difference between those two things turned out to be most of what growing up actually was.
+There was a girl there too. The first one. I thought she was the one and she thought I was the one, and we were both wrong about that part.
+
+The rest was on me. She hadn't done anything wrong. I was nineteen and still mostly a boy, and I handled it badly, and that was the thing I actually learned in Lubbock, more than anything the job taught me. Wherever she is now, I hope it has been good to her. She did a lot better than a nineteen year old Pistol.
 
 And then the hat. I was living at the El Chaparral apartments, out near 50th and Slide, with three roommates. They were outside one evening doing nothing in particular, just bullshitting, and I came walking up still wearing the Pistol Pete hat, having genuinely forgotten it was on my head. Somebody said something. Everybody laughed. It stuck for as long as I lived there.
 
@@ -138,4 +144,8 @@ As for why this recipe carries the name and not one of the others, the reasons a
 
 None of that adds up to a reason. But the name didn't add up the first time either, and it stuck.
 
-It outlived the job, the apartment, the girl, and Lubbock, and it turned up on a brisket thirty-odd years later. None of which happens without a man who noticed a kid couldn't afford a white shirt, and did something about it before anybody thought to ask him.
+It outlived the job, the apartment, the girl, and Lubbock, and it turned up on a brisket thirty-odd years later.
+
+None of which happens without a man who noticed a kid couldn't afford a white shirt and did something about it before anybody thought to ask. Or without a widow working retail who made sure her son left with a few dollars anyway. Or without a country that decided, on purpose and in advance, that kids like me were worth carrying until we could carry ourselves.
+
+I have paid all of it back several times over since, through my own taxes, and gladly. That is the whole arrangement. Somebody covers you before you can cover yourself, and then you cover the next one, whose story hasn't been written yet.
