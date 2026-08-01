@@ -12,7 +12,7 @@ Ground beef enchiladas built on a proper toasted-guajillo red sauce, with fresh 
 - 1/2 medium yellow onion (roasted and blended smooth; optional, see notes)
 - 6 garlic cloves
 - 2 fresh Thai chilies, seeded and deveined (heat accent, start here)
-- 3 tbsp neutral oil
+- 3 tbsp canola or vegetable oil
 - 1 tbsp ground cumin (reserve a pinch for the beef)
 - 1 tbsp Mexican oregano
 - 1 tsp smoked paprika (optional, for extra smoke)

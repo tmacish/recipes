@@ -15,13 +15,13 @@ Cubed chuck roast instead of ground beef, simmered long enough that the meat giv
 
 ### Chili
 - 3 lb chuck roast, trimmed and cut into 3/4-inch cubes
-- 2 tbsp neutral oil
+- 2 tbsp canola or vegetable oil
 - 1 large yellow onion, diced
 - 1 red bell pepper, diced
 - 1 jalapeño, seeded and finely chopped
 - 4 garlic cloves, minced
 - 2 tbsp tomato paste
-- 28 oz can fire-roasted diced tomatoes
+- 28 oz can fire-roasted diced tomatoes [\*](#appendix-tomato-options)
 - 2 cups beef stock, plus more as needed
 - 1 tbsp ground cumin
 - 1 tsp smoked paprika
@@ -68,3 +68,17 @@ Cubed chuck roast instead of ground beef, simmered long enough that the meat giv
 - **Thickening.** Reduce it uncovered first; that concentrates flavor instead of just adding starch. Masa harina is the fallback and adds a faint corn sweetness that suits the chile base. A cornstarch slurry works but tastes of nothing.
 - **Chile substitutions.** No anchos? Double the guajillos and add a teaspoon of sugar. No dried chilies at all? Three tablespoons of decent chili powder gets you most of the way, but that's the compromise version.
 - **Origin.** Adapted from an Outback-style Tasmanian chili, rebuilt from scratch and re-balanced so the heat is a layer rather than baked in.
+
+## Appendix: Tomato Options
+
+The canned fire-roasted tomatoes are the convenient default, not the best version. They're also doing less work here than they would elsewhere, because the chipotle in adobo and the smoked paprika already cover the smoke. Any of these swap in at the same point in step 7.
+
+- **Roast your own.** 2 1/2 to 3 lb Roma or plum tomatoes, halved, cut side up, broiled until blistered and blackened in spots and starting to slump. Chop and add with all their juices. Best flavor by a distance, and the same move the enchilada recipe uses in its step 2, so the two stay consistent.
+
+- **Canned whole peeled, hand-crushed.** One 28 oz can, squeezed apart by hand on the way into the pot. Worth knowing why this beats diced: canned diced tomatoes are treated with calcium chloride so they hold their shape, which is exactly what you don't want in a two-hour braise. They stay stubbornly firm and never melt into the sauce. Whole peeled aren't treated and break down properly. This is a straight upgrade over diced in almost any long-simmered dish.
+
+- **Crushed tomatoes or passata.** One 28 oz can, for a smoother chili with no tomato pieces. Slightly less body, so reduce a few minutes longer at step 8.
+
+- **Fresh, unroasted.** 2 1/2 lb ripe tomatoes, cored and chopped, plus an extra pinch of salt. Only worth doing at peak season. Out of season, canned beats mediocre fresh every time.
+
+- **Adjusting the smoke.** Going to any non-fire-roasted option, push the smoked paprika from 1 tsp to 1 1/2 tsp and you won't miss the char. Going the other way and roasting your own, consider easing the smoked paprika back a little, since real char tastes cleaner than the powdered version.
