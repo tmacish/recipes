@@ -1,6 +1,6 @@
 # Basic BBQ Brisket
 
-A full packer done straight: heavy black pepper rub, mesquite, tallow and butcher paper through the stall, and a long rest. No injection, no crutch, no sauce. The rub runs pepper-forward in the Central Texas direction, where the salt is there to season and the pepper is there to build bark. Everything that makes this work happens either in the trim or in the rest, and both are the steps people rush.
+A full packer done straight: heavy black pepper rub, mesquite, tallow and butcher paper through the stall, and a long rest. No injection, no crutch, no sauce. The rub runs pepper-forward in the South Texas direction, where the salt is there to season and the pepper is there to build bark. Everything that makes this work happens either in the trim or in the rest, and both are the steps people rush.
 
 **Serves:** 12 to 15
 **Active:** ~1 hour · **Cook:** 12 to 16 hours · **Rest:** 2 to 4 hours
@@ -15,7 +15,7 @@ A full packer done straight: heavy black pepper rub, mesquite, tallow and butche
 
 ### Binder
 - 1/2 yellow mustard
-- 1/2 dill pickle juice
+- 1/2 dill pickle juice (**works against the smoke ring** — see notes)
 
 ### Spritz
 - 50% water
@@ -25,7 +25,39 @@ A full packer done straight: heavy black pepper rub, mesquite, tallow and butche
 - 1 whole packer brisket, 12 to 16 lb untrimmed
 - Beef tallow, about 1/2 cup, for the wrap (render it from your own trimmings)
 - Pink butcher paper
-- Mesquite
+- Mesquite (see below)
+
+## Wood
+
+Post oak is the right answer and everybody knows it. It's what the Texas places run, it's clean and mild and forgiving over a sixteen hour cook, and you cannot reliably buy it as seasoned splits in Virginia. So the standing preference here is **mesquite whenever post oak isn't on the table**, which in practice means always.
+
+### Mesquite (the default)
+
+Aggressive, earthy, faintly tarry, and unmistakable. It puts a harder edge on beef than anything else you can buy, and on a brisket that's the point. It is also the wood most likely to punish sloppy fire management.
+
+Run it clean. Burn splits down to coals and feed the fire with hot, established wood rather than letting cold splits smolder on top. Thin blue smoke or nothing. If the smoke goes white and billowy you're not flavoring the brisket, you're creosoting it, and on a cook this long that stacks up fast.
+
+If you want the mesquite character without the risk, use it for the first 4 to 5 hours only and coast on something milder afterward. Meat stops taking on smoke around 140°F, so the back half of the cook is where bitterness gets in for no benefit at all.
+
+### Hickory (the alternative, and the argument against mesquite)
+
+The honest case for hickory: it is more forgiving, and forgiveness is worth a lot across sixteen hours. Hickory gives you a sweeter, bacon-adjacent smoke that stays pleasant even if the fire gets away from you for an hour. Mesquite doesn't. Mesquite goes acrid and there's no recovering it after the fact.
+
+There's also a decent argument that mesquite was never a long-cook wood to begin with. In Texas it earned its reputation over fast, hot, direct fires, cabrito and fajitas, where it's on and off in under an hour. Stretching that across a full packer asks it to do a job it wasn't built for.
+
+To run hickory, change nothing else. Same 250°F, same timings, same wrap. You can burn it the whole way through without staging it out, and you don't have to be as ruthless about the fire. The brisket will be rounder and sweeter and a little less assertive. Whether that's a loss depends on whether you wanted assertive.
+
+### Dogwood, the one time
+
+A dogwood came down and I cut it up with a chainsaw, which left me holding a pile of a wood nobody sells, with no particular plan for it. So I smoked a chicken over it.
+
+It was good. Sweet, mild, nothing like hickory and about as far from mesquite as you can get and still be burning a hardwood. Blind, I'd have guessed a fruitwood. Apple, maybe, or something in that neighborhood. Which is the funny part, because it isn't in that neighborhood at all. Apple, cherry, peach, and plum are all Rosaceae. Dogwood is *Cornus*, off in Cornaceae keeping company with ornamental shrubs and not a single thing you'd eat. The resemblance is a complete coincidence.
+
+Turns out that read is a common one. The handful of people who've bothered to write about smoking with dogwood describe a gentle, sweet smoke and a subtle fruity aroma, though a fair number compare it to oak instead, so it sits somewhere between mild-fruity and mild-neutral depending on whose palate you trust. Everyone agrees it's mild and nobody claims it's harsh. It's supposed to be very good on game.
+
+The reason it was a chicken and not a brisket is the reason it will stay that way. Dogwood is dense but it burns fast without throwing much heat, so it works as an accent in small amounts over a short cook, a couple of chunks with the bark off, rather than as a primary fuel across sixteen hours. On a packer it'd be spent by hour four, which is right about when the meat stops caring what you're burning anyway. Great wood, wrong job.
+
+There's a fittingly Virginian joke in there somewhere. The state will hand you its own state tree and state flower, the same plant twice over, free, in your own yard, on the ground, already cut. What it will not do is sell you post oak.
 
 ## Trimming the Packer
 
@@ -72,7 +104,7 @@ Expect to lose 20 to 25 percent of the raw weight. A 14 lb packer comes out arou
 ## Notes
 
 - **Where it lands.** No chile heat at all. This is pepper-forward, not spicy, and the burn is the sharp front-of-mouth kind from a heavy coarse grind rather than anything that builds. Hot sauce or pickled jalapeños on the side if the table wants it.
-- **Mesquite on a long cook.** Mesquite is aggressive and turns acrid over 12 hours, which is exactly why the barbacoa in this repo calls for hickory instead. If you want mesquite here, run it clean: burn it down to coals rather than smoldering splits, and consider mesquite for the first 4 to 5 hours only, then coast on oak or hickory once the meat has taken what smoke it will. Meat stops absorbing smoke around 140°F anyway, so the back half is where bitterness gets in for nothing.
+- **Smoke ring, and what the pickle juice costs you.** The ring is nitric oxide and carbon monoxide off the burning wood binding with myoglobin in the outer few millimeters of meat. It only forms while that layer is below roughly 140 to 170°F, so it's decided in the first few hours and nothing later changes it. Acid on the surface suppresses the reaction, which means **the pickle juice will cost you ring.** If the ring matters to you, go all mustard, or skip the binder entirely and let the overnight salt pull enough moisture to hold the rub. Two things worth knowing before you bother: the ring is purely cosmetic and adds nothing to flavor or texture, and the overnight uncovered rest works against it too, for the same reason — a dry surface gives the gases nowhere to dissolve. That one buys you better bark, and it's a trade most people take on purpose.
 - **Salt.** Lawry's is already salted, so between it and the kosher salt this rub is seasoned at 6 parts salt against 8 pepper. Don't add more on top and don't brine underneath it.
 - **The stall is not a problem.** Somewhere around 150 to 165°F the temperature stops climbing for hours while surface moisture evaporates. It's physics, not a stall in your fire. Wrapping is how you shorten it; panicking and raising the pit temperature is how you ruin it.
 - **Timing backward.** Figure roughly an hour to an hour and a quarter per trimmed pound at 250°F, then add the rest. For dinner at 6pm with an 11 lb trimmed packer, that's on the smoker by 3 or 4am. Build in a couple of hours of slack, because a brisket that finishes early holds beautifully and one that finishes late ruins the plan.
