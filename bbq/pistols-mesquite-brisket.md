@@ -85,7 +85,7 @@ Expect to lose 20 to 25 percent of the raw weight. A 14 lb packer comes out arou
 
 ## Method
 
-1. **Season the night before.** Mix the mustard and pickle juice and coat the brisket in a thin film. It's a binder, not a flavor: almost all of it cooks off, and the pickle juice brings just enough acid to keep the mustard from reading as mustard. Apply the rub heavy and even from about 12 inches up so it falls rather than clumps. Get the sides. Rest uncovered in the fridge overnight so the surface dries and the salt works in.
+1. **Season the night before.** Mix the mustard and pickle juice and coat the brisket in a thin film. It's a binder, not a flavor: almost all of it cooks off, and the pickle juice brings just enough acid to keep the mustard from reading as mustard. Combine the black pepper, Lawry's, kosher salt and granulated garlic in a bowl or shaker, then apply the rub heavy and even from about 12 inches up so it falls rather than clumps. Get the sides. Rest uncovered in the fridge overnight so the surface dries and the salt works in.
 
 2. **Fire the smoker to 250°F.** Mesquite. Wait for thin blue smoke, never white, and get the fire clean and settled before the meat goes on. See the note on mesquite below, because on a cook this long it matters.
 

@@ -3,6 +3,9 @@
 
 *Fresh-rotel edition. Same vengeance, less aluminum.*
 
+**Serves:** 6 to 10, depending on the size of the roast
+**Cook:** 4 to 6 hours · **Rest:** 20 to 30 minutes
+
 ---
 
 ## Ingredients
