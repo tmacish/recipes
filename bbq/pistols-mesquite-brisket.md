@@ -87,7 +87,7 @@ Expect to lose 20 to 25 percent of the raw weight. A 14 lb packer comes out arou
 
 1. **Season the night before.** Mix the mustard and pickle juice and coat the brisket in a thin film. It's a binder, not a flavor: almost all of it cooks off, and the pickle juice brings just enough acid to keep the mustard from reading as mustard. Combine the black pepper, Lawry's, kosher salt and granulated garlic in a bowl or shaker, then apply the rub heavy and even from about 12 inches up so it falls rather than clumps. Get the sides. Rest uncovered in the fridge overnight so the surface dries and the salt works in.
 
-2. **Fire the smoker to 250°F.** Mesquite. Wait for thin blue smoke, never white, and get the fire clean and settled before the meat goes on. See the note on mesquite below, because on a cook this long it matters.
+2. **Fire the smoker to 250°F.** Mesquite. Wait for thin blue smoke, never white, and get the fire clean and settled before the meat goes on. See the Wood section above, because on a cook this long it matters.
 
 3. **On fat cap up, point toward the heat.** The point has more fat and takes more punishment; the flat is what dries out. Put the thicker end where the heat is heaviest.
 
@@ -110,4 +110,5 @@ Expect to lose 20 to 25 percent of the raw weight. A 14 lb packer comes out arou
 - **Salt.** Lawry's is already salted, so between it and the kosher salt this rub is seasoned at 6 parts salt against 8 pepper. Don't add more on top and don't brine underneath it.
 - **The stall is not a problem.** Somewhere around 150 to 165°F the temperature stops climbing for hours while surface moisture evaporates. It's physics, not a stall in your fire. Wrapping is how you shorten it; panicking and raising the pit temperature is how you ruin it.
 - **Timing backward.** Figure roughly an hour to an hour and a quarter per trimmed pound at 250°F, then add the rest. For dinner at 6pm with an 11 lb trimmed packer, that's on the smoker by 3 or 4am. Build in a couple of hours of slack, because a brisket that finishes early holds beautifully and one that finishes late ruins the plan.
-- **Leftovers.** Slice cold, reheat gently in a covered pan with a splash of stock or the rendered tallow. Freezes well in vacuum bags for 3 months. 
+- **Leftovers.** Slice cold, reheat gently in a covered pan with a splash of stock or the rendered tallow. Freezes well in vacuum bags for 3 months.
+- **The name.** I made the dough on the morning shift at a Pistol Pete's in Lubbock, 1991 or maybe 1992, and came home one night still wearing the hat. Three drunk roommates did the rest. 

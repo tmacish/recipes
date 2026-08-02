@@ -3,7 +3,7 @@
 Cubed chuck roast instead of ground beef, simmered long enough that the meat gives up and falls apart on its own. The chile base is built from whole dried anchos and guajillos rather than a jar of chili powder, which is the whole difference: toasted and blended fresh, they bring a deep, almost raisiny sweetness that packaged powder lost years ago sitting on a shelf. Heat is built into the base rather than bolted on at the end, and it lands about where a default batch of Thalen's smoked adobo beef does: enough to make you notice and keep eating, nowhere near full atrocity.
 
 **Serves:** 6 to 8
-**Prep:** 30 minutes · **Cook:** 2 1/2 hours
+**Prep:** 30 minutes · **Cook:** 3 to 3 1/2 hours
 
 ## Ingredients
 
@@ -57,7 +57,7 @@ Cubed chuck roast instead of ground beef, simmered long enough that the meat giv
 
 7. **Combine and simmer.** Return the beef and any accumulated juices. Add the tomatoes and stock, and stir to combine. Bring to a boil, then drop to the barest simmer, cover, and cook 2 to 2 1/2 hours, stirring occasionally, until the chuck shreds against the side of a spoon with no resistance.
 
-8. **Taste and check the heat.** Uncover for the last 30 minutes to reduce. **This is your heat checkpoint.** It should be sitting at a solid middle burn by now, on par with a default barbacoa. Long simmers mute chile heat, so if it reads flat, a spoon of adobo sauce stirred in late brings it back without adding raw edge. If it needs body, whisk the masa harina with a splash of stock and stir it in.
+8. **Taste and check the heat.** Uncover for the last 30 minutes to reduce. **This is your heat checkpoint.** It should be sitting at a solid middle burn by now, on par with a default barbacoa. Long simmers mute chile heat, so if it reads flat, a spoon of adobo sauce stirred in late brings it back without adding raw edge. Cayenne is the blunter option and the only one that works this late, but it lands sharp instead of round, so go a pinch at a time. If it needs body, whisk the masa harina with a splash of stock and stir it in.
 
 9. **Finish.** Off the heat, stir in the cider vinegar and adjust the salt. The vinegar won't read as sour, it just lifts everything and keeps a long-simmered pot from tasting flat. Serve with cheese, green onions, sour cream, and lime.
 
